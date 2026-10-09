@@ -89,7 +89,7 @@ Plataforma SaaS completa voltada para barbearias, modernizando agendamentos e o 
 - 📱 Interface 100% responsiva para desktop e mobile com lembretes automáticos.
 
 <p>
-  <a href="https://trimly-lyart.vercel.app" target="_blank">
+  <a href="https://trimly-mk.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Demo_Online-Trimly-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Demo Online Trimly"/>
   </a>
   <a href="https://github.com/MurilloK14/Trimly">
