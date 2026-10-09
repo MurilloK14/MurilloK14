@@ -9,6 +9,8 @@
 Building projects, solving problems, and constantly learning.
 
 [![GitHub](https://img.shields.io/badge/GitHub-MurilloK14-181717?style=for-the-badge&logo=github)](https://github.com/MurilloK14)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Murillo_Kennedy-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/murillo-kennedy)
+[![Email](https://img.shields.io/badge/Email-murillokennedy12@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:murillokennedy12@gmail.com)
 
 </div>
 
@@ -73,40 +75,89 @@ I enjoy turning ideas into practical applications, exploring new technologies, a
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" width="45" height="45" alt="Vercel"/>
 </p>
 
-
+---
 
 ## 🚀 Featured Projects
 
-### ✂️ Trimly — Barbershop Management
+### <img src="https://raw.githubusercontent.com/MurilloK14/Trimly/main/public/logo.png" height="28" alt="Trimly" valign="middle"/> Trimly — Plataforma de Gestão & Agendamento para Barbearias
 
-A web application project focused on barbershop management and appointment scheduling.
+Plataforma SaaS completa voltada para barbearias, modernizando agendamentos e o gerenciamento do negócio.
 
-- Appointment booking and management.
-- Barber and administrator interfaces.
-- Business profile customization.
-- Modern web application experience.
+- 📅 Agendamento online ágil para clientes sem atrito e sem necessidade de cadastro burocrático.
+- 💈 Painel administrativo do barbeiro com métricas de faturamento, ocupação e gestão de equipe.
+- 💳 Assinaturas recorrentes integradas com Stripe e autenticação/banco com Supabase & Drizzle ORM.
+- 📱 Interface 100% responsiva para desktop e mobile com lembretes automáticos.
 
-**Technologies:** Next.js, TypeScript, React, Tailwind CSS.
+<p>
+  <a href="https://trimly-lyart.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Demo_Online-Trimly-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Demo Online Trimly"/>
+  </a>
+  <a href="https://github.com/MurilloK14/Trimly">
+    <img src="https://img.shields.io/badge/Repositório-Trimly-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositório Trimly"/>
+  </a>
+</p>
 
-### 💻 NextSite — Web Development
+**Tecnologias:** Next.js, TypeScript, React, Tailwind CSS, Supabase, Drizzle ORM, Stripe.
 
-A web project focused on presenting web development services and showcasing digital solutions.
+<br/>
 
-- Modern and responsive interface.
-- Focus on user experience and visual design.
-- Project and service presentation.
+### <img src="https://raw.githubusercontent.com/MurilloK14/NextSite/main/assets/favicon.svg" height="28" width="28" alt="NextSite" valign="middle"/> NextSite — Presença Digital de Alto Padrão
 
-**Technologies:** Next.js, React, TypeScript, Tailwind CSS.
+Landing page comercial e institucional de alto padrão com engenharia visual moderna e foco cirúrgico em conversão de clientes.
 
-### 🏥 Saúde Pra Todos — Healthcare Technology
+- ⚡ Design autoral, microinterações fluidas e tipografia editorial sofisticada.
+- 📱 Otimização responsiva minuciosa com alta ergonomia para navegação mobile.
+- 💼 Portfólio dinâmico, calculadora interativa de planos e funil de conversão para WhatsApp.
 
-A project concept focused on improving access to healthcare information and connecting people with local healthcare services.
+<p>
+  <a href="https://nextsitemk.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Site_Oficial-NextSite-00E5FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Site Oficial NextSite"/>
+  </a>
+  <a href="https://github.com/MurilloK14/NextSite">
+    <img src="https://img.shields.io/badge/Repositório-NextSite-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositório NextSite"/>
+  </a>
+</p>
 
-- Healthcare-oriented digital solution.
-- Focus on accessibility and usability.
-- Exploration of AI-assisted healthcare services.
+**Tecnologias:** HTML5, CSS3 Moderno, JavaScript Vanilla, Mobile-First Performance.
 
-**Technologies:** Web Development and AI integration.
+<br/>
+
+### <img src="https://raw.githubusercontent.com/MurilloK14/cuidae/main/public/images/cuidae-icon.png" height="28" alt="Cuidaê" valign="middle"/> Cuidaê (SaúdeIA) — Healthcare Technology & AI
+
+Solução inovadora com inteligência artificial para aproximar pacientes de hospitais, unidades básicas de saúde (UBS/UPA) e triagem digital ágil.
+
+- 🤖 Assistente virtual inteligente integrado para orientação médica inicial e pré-triagem.
+- 🏥 Mapeamento e visualização de unidades de saúde e hospitais da região.
+- ♿ Interface desenhada com foco em acessibilidade universal, rapidez e experiência humanizada.
+
+<p>
+  <a href="https://github.com/MurilloK14/cuidae">
+    <img src="https://img.shields.io/badge/Repositório-Cuidaê-10B981?style=for-the-badge&logo=github&logoColor=white" alt="Repositório Cuidaê"/>
+  </a>
+</p>
+
+**Tecnologias:** Next.js, React, TypeScript, Tailwind CSS, Supabase, AI Integration.
+
+<br/>
+
+### 🧺 Site de Lavanderia — Landing Page Profissional
+
+Landing page comercial moderna e fluida para empresa de serviços de lavanderia, higienização têxtil e coleta domiciliar.
+
+- 🧼 Tabela interativa de serviços e valores (lavagem a seco, cama & banho, peças delicadas).
+- 📲 Integração de agendamento e coleta rápida diretamente via WhatsApp.
+- 🚀 Design limpo, leve e hospedado com alta performance no GitHub Pages.
+
+<p>
+  <a href="https://murillok14.github.io/site-de-lavanderia/" target="_blank">
+    <img src="https://img.shields.io/badge/Demo_Online-GitHub_Pages-22C55E?style=for-the-badge&logo=githubpages&logoColor=white" alt="Demo Online Lavanderia"/>
+  </a>
+  <a href="https://github.com/MurilloK14/site-de-lavanderia">
+    <img src="https://img.shields.io/badge/Repositório-Lavanderia-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositório Lavanderia"/>
+  </a>
+</p>
+
+**Tecnologias:** HTML5, CSS3, JavaScript, FontAwesome, GitHub Pages.
 
 ---
 
@@ -136,8 +187,11 @@ A project concept focused on improving access to healthcare information and conn
   <a href="https://github.com/MurilloK14">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://www.linkedin.com/murillo_kennedy">
+  <a href="https://www.linkedin.com/in/murillo-kennedy">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:murillokennedy12@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
