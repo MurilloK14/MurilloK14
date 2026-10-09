@@ -73,14 +73,6 @@ I enjoy turning ideas into practical applications, exploring new technologies, a
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" width="45" height="45" alt="Vercel"/>
 </p>
 
-### 🗄️ Databases & Backend Services
-
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
-</p>
-
 ### 🐳 DevOps, Version Control & Tools
 
 <p>
