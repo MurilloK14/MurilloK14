@@ -79,7 +79,7 @@ I enjoy turning ideas into practical applications, exploring new technologies, a
 
 ## 🚀 Featured Projects
 
-### <img src="https://raw.githubusercontent.com/MurilloK14/Trimly/main/public/logo.png" height="28" alt="Trimly" valign="middle"/> Trimly — Barbershop Management SaaS
+### <img src="https://raw.githubusercontent.com/MurilloK14/Trimly/main/public/icon-512.png" height="28" width="28" alt="Trimly" valign="middle"/> Trimly — Barbershop Management SaaS
 
 A comprehensive SaaS platform built for barbershops, streamlining appointment scheduling and business operations.
 
