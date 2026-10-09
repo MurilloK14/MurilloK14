@@ -79,85 +79,85 @@ I enjoy turning ideas into practical applications, exploring new technologies, a
 
 ## 🚀 Featured Projects
 
-### <img src="https://raw.githubusercontent.com/MurilloK14/Trimly/main/public/logo.png" height="28" alt="Trimly" valign="middle"/> Trimly — Plataforma de Gestão & Agendamento para Barbearias
+### <img src="https://raw.githubusercontent.com/MurilloK14/Trimly/main/public/logo.png" height="28" alt="Trimly" valign="middle"/> Trimly — Barbershop Management SaaS
 
-Plataforma SaaS completa voltada para barbearias, modernizando agendamentos e o gerenciamento do negócio.
+A comprehensive SaaS platform built for barbershops, streamlining appointment scheduling and business operations.
 
-- 📅 Agendamento online ágil para clientes sem atrito e sem necessidade de cadastro burocrático.
-- 💈 Painel administrativo do barbeiro com métricas de faturamento, ocupação e gestão de equipe.
-- 💳 Assinaturas recorrentes integradas com Stripe e autenticação/banco com Supabase & Drizzle ORM.
-- 📱 Interface 100% responsiva para desktop e mobile com lembretes automáticos.
+- 📅 Frictionless online booking system for clients without complex sign-ups.
+- 💈 Dedicated administrative dashboard with revenue metrics, occupancy rates, and staff management.
+- 💳 Recurring subscription billing integrated with Stripe, powered by Supabase & Drizzle ORM.
+- 📱 Fully responsive experience across desktop and mobile devices with automated reminders.
 
 <p>
-  <a href="https://trimly-mk.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Demo_Online-Trimly-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Demo Online Trimly"/>
+  <a href="https://trimly-lyart.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Live_Demo-Trimly-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Trimly Live Demo"/>
   </a>
   <a href="https://github.com/MurilloK14/Trimly">
-    <img src="https://img.shields.io/badge/Repositório-Trimly-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositório Trimly"/>
+    <img src="https://img.shields.io/badge/Repository-Trimly-181717?style=for-the-badge&logo=github&logoColor=white" alt="Trimly Repository"/>
   </a>
 </p>
 
-**Tecnologias:** Next.js, TypeScript, React, Tailwind CSS, Supabase, Drizzle ORM, Stripe.
+**Technologies:** Next.js, TypeScript, React, Tailwind CSS, Supabase, Drizzle ORM, Stripe.
 
 <br/>
 
-### <img src="https://raw.githubusercontent.com/MurilloK14/NextSite/main/assets/favicon.svg" height="28" width="28" alt="NextSite" valign="middle"/> NextSite — Presença Digital de Alto Padrão
+### <img src="https://raw.githubusercontent.com/MurilloK14/NextSite/main/assets/favicon.svg" height="28" width="28" alt="NextSite" valign="middle"/> NextSite — High-End Digital Presence
 
-Landing page comercial e institucional de alto padrão com engenharia visual moderna e foco cirúrgico em conversão de clientes.
+Commercial and institutional landing page engineered for high conversion, authoritative branding, and performance.
 
-- ⚡ Design autoral, microinterações fluidas e tipografia editorial sofisticada.
-- 📱 Otimização responsiva minuciosa com alta ergonomia para navegação mobile.
-- 💼 Portfólio dinâmico, calculadora interativa de planos e funil de conversão para WhatsApp.
+- ⚡ Custom dark-mode design, fluid micro-interactions, and refined editorial typography.
+- 📱 Mobile-first layout optimized for speed, touch ergonomics, and high conversion.
+- 💼 Interactive portfolio showcase, dynamic pricing calculator, and direct WhatsApp lead generation.
 
 <p>
   <a href="https://nextsitemk.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Site_Oficial-NextSite-00E5FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Site Oficial NextSite"/>
+    <img src="https://img.shields.io/badge/Official_Website-NextSite-00E5FF?style=for-the-badge&logo=vercel&logoColor=black" alt="NextSite Website"/>
   </a>
   <a href="https://github.com/MurilloK14/NextSite">
-    <img src="https://img.shields.io/badge/Repositório-NextSite-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositório NextSite"/>
+    <img src="https://img.shields.io/badge/Repository-NextSite-181717?style=for-the-badge&logo=github&logoColor=white" alt="NextSite Repository"/>
   </a>
 </p>
 
-**Tecnologias:** HTML5, CSS3 Moderno, JavaScript Vanilla, Mobile-First Performance.
+**Technologies:** Modern HTML5, CSS3, Vanilla JavaScript, Mobile-First Performance.
 
 <br/>
 
 ### <img src="https://raw.githubusercontent.com/MurilloK14/cuidae/main/public/images/cuidae-icon.png" height="28" alt="Cuidaê" valign="middle"/> Cuidaê (SaúdeIA) — Healthcare Technology & AI
 
-Solução inovadora com inteligência artificial para aproximar pacientes de hospitais, unidades básicas de saúde (UBS/UPA) e triagem digital ágil.
+An AI-powered healthcare platform designed to connect patients with local hospitals, clinics, and smart health triage.
 
-- 🤖 Assistente virtual inteligente integrado para orientação médica inicial e pré-triagem.
-- 🏥 Mapeamento e visualização de unidades de saúde e hospitais da região.
-- ♿ Interface desenhada com foco em acessibilidade universal, rapidez e experiência humanizada.
+- 🤖 Integrated AI virtual assistant for preliminary guidance and symptom triage.
+- 🏥 Interactive mapping and information hub for local public health units and emergency hospitals.
+- ♿ Clean, accessible, and human-centered user interface designed for all audiences.
 
 <p>
   <a href="https://github.com/MurilloK14/cuidae">
-    <img src="https://img.shields.io/badge/Repositório-Cuidaê-10B981?style=for-the-badge&logo=github&logoColor=white" alt="Repositório Cuidaê"/>
+    <img src="https://img.shields.io/badge/Repository-Cuidaê-10B981?style=for-the-badge&logo=github&logoColor=white" alt="Cuidaê Repository"/>
   </a>
 </p>
 
-**Tecnologias:** Next.js, React, TypeScript, Tailwind CSS, Supabase, AI Integration.
+**Technologies:** Next.js, React, TypeScript, Tailwind CSS, Supabase, AI Integration.
 
 <br/>
 
-### 🧺 Site de Lavanderia — Landing Page Profissional
+### 🧺 Laundry Service — Modern Landing Page
 
-Landing page comercial moderna e fluida para empresa de serviços de lavanderia, higienização têxtil e coleta domiciliar.
+A modern and responsive commercial landing page built for professional laundry, textile cleaning, and home pickup services.
 
-- 🧼 Tabela interativa de serviços e valores (lavagem a seco, cama & banho, peças delicadas).
-- 📲 Integração de agendamento e coleta rápida diretamente via WhatsApp.
-- 🚀 Design limpo, leve e hospedado com alta performance no GitHub Pages.
+- 🧼 Interactive services and pricing tables (dry cleaning, bed & bath, delicate garments).
+- 📲 Fast pickup and inquiry integration via WhatsApp.
+- 🚀 Lightweight, clean design hosted with high availability on GitHub Pages.
 
 <p>
   <a href="https://murillok14.github.io/site-de-lavanderia/" target="_blank">
-    <img src="https://img.shields.io/badge/Demo_Online-GitHub_Pages-22C55E?style=for-the-badge&logo=githubpages&logoColor=white" alt="Demo Online Lavanderia"/>
+    <img src="https://img.shields.io/badge/Live_Demo-GitHub_Pages-22C55E?style=for-the-badge&logo=githubpages&logoColor=white" alt="Laundry Live Demo"/>
   </a>
   <a href="https://github.com/MurilloK14/site-de-lavanderia">
-    <img src="https://img.shields.io/badge/Repositório-Lavanderia-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositório Lavanderia"/>
+    <img src="https://img.shields.io/badge/Repository-Laundry_Service-181717?style=for-the-badge&logo=github&logoColor=white" alt="Laundry Repository"/>
   </a>
 </p>
 
-**Tecnologias:** HTML5, CSS3, JavaScript, FontAwesome, GitHub Pages.
+**Technologies:** HTML5, CSS3, JavaScript, FontAwesome, GitHub Pages.
 
 ---
 
